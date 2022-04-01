@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  generateName: spring-apiserver-
+  generateName: spring-apiserver-idea-
 components:
   - name: tools
     container:
